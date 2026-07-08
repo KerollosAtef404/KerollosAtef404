@@ -24,7 +24,7 @@ I am a Cybersecurity Specialist specializing in Vulnerability Research, Web Secu
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KerollosAtef404&show_icons=true&theme=radium&hide_border=true" alt="Kerollos's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KerollosAtef404&show_icons=true&theme=dark&hide_border=false" alt="Kerollos's GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect
